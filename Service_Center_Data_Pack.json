@@ -1,0 +1,124 @@
+{
+    "Requests Dataset": [
+        {
+            "request_id": 111,
+            "customer_name": "Farah",
+            "priority": 1,
+            "estimated_time": 35,
+            "status": "Pending"
+        },
+        {
+            "request_id": 102,
+            "customer_name": "Hana",
+            "priority": 5,
+            "estimated_time": 12,
+            "status": "Pending"
+        },
+        {
+            "request_id": 108,
+            "customer_name": "Kareem",
+            "priority": 3,
+            "estimated_time": 22,
+            "status": "Pending"
+        },
+        {
+            "request_id": 106,
+            "customer_name": "Mona",
+            "priority": 2,
+            "estimated_time": 28,
+            "status": "Pending"
+        },
+        {
+            "request_id": 110,
+            "customer_name": "Ziad",
+            "priority": 4,
+            "estimated_time": 16,
+            "status": "Pending"
+        },
+        {
+            "request_id": 120,
+            "customer_name": "Ashrakat",
+            "priority": 1,
+            "estimated_time": 10,
+            "status": "Pending"
+        }
+    ],
+    "processed_requests": [
+        {
+            "request_id": 101,
+            "customer_name": "Ahmed",
+            "priority": 1,
+            "estimated_time": 15,
+            "status": "Processed"
+        },
+        {
+            "request_id": 103,
+            "customer_name": "Mariam",
+            "priority": 1,
+            "estimated_time": 20,
+            "status": "Processed"
+        },
+        {
+            "request_id": 104,
+            "customer_name": "Youssef",
+            "priority": 4,
+            "estimated_time": 18,
+            "status": "Processed"
+        },
+        {
+            "request_id": 105,
+            "customer_name": "Sara",
+            "priority": 3,
+            "estimated_time": 25,
+            "status": "Processed"
+        },
+        {
+            "request_id": 107,
+            "customer_name": "Ali",
+            "priority": 3,
+            "estimated_time": 10,
+            "status": "Processed"
+        },
+        {
+            "request_id": 109,
+            "customer_name": "Omar",
+            "priority": 2,
+            "estimated_time": 40,
+            "status": "Processed"
+        },
+        {
+            "request_id": 112,
+            "customer_name": "Nour",
+            "priority": 2,
+            "estimated_time": 30,
+            "status": "Processed"
+        },
+        {
+            "request_id": 121,
+            "customer_name": "Ash",
+            "priority": 2,
+            "estimated_time": 4,
+            "status": "Processed"
+        }
+    ],
+    "search_history": [
+        {
+            "target": 101,
+            "method": "Binary",
+            "result": "Found",
+            "comps": 2
+        },
+        {
+            "target": 101,
+            "method": "Sequential",
+            "result": "Found",
+            "comps": 1
+        },
+        {
+            "target": 120,
+            "method": "Binary",
+            "result": "Not Found",
+            "comps": 3
+        }
+    ]
+}
